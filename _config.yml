@@ -8,8 +8,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Open Science Notebook
+tagline: for Russell Dinnage
 author :
   name : Russell Dinnage
   email : r.dinnage@gmail.com
