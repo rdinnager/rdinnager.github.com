@@ -11,6 +11,8 @@ Welcome to my Open Science Notebook. This is where I keep all my day-to-day note
 
 <ul class="posts">
   {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+    {{ post.excerpt }}
+    </li>
   {% endfor %}
 </ul>
