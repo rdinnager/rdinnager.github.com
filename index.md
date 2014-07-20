@@ -5,7 +5,7 @@ tagline: for Russell Dinnage
 ---
 {% include JB/setup %}
 
-Welcome to my Open Science Notebook. This is where I keep all my day-to-day noted for my scientific work in ecology. It is mainly for my own benefit, but there be some things of use for other people. Feel free to use whatever you like (with attribution please!). Also, please get in touch if you see anything interesting here.
+Welcome to my Open Science Notebook. This is where I keep all my day-to-day noted for my scientific work in ecology. It is mainly for my own benefit, but there may be some things of use or interest to other people. Feel free to use whatever you like (with attribution please!). Also, please get in touch if you see anything interesting here that you would like to talk about.
 
 #Posts
 
